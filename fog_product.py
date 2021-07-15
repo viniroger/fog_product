@@ -5,7 +5,7 @@ import os
 from helpers.utilities import Utilities
 
 # INPUT VARIABLES - Extent and Datetime
-extent = [-60.0, -35.0, -45.0, -25.0] # Min lon, Max lon, Min lat, Max lat
+extent = [-60.0, -35.0, -45.0, -25.0] # [min. lon, min. lat, max. lon, max. lat]
 yyyymmddhhmn = '202107071000'
 
 # Check/create input and output directories
